@@ -2,8 +2,34 @@
 
 # 🛒 SwiftCart
 
-**Full-stack E-commerce App** built with **React**, **Node.js**, **Express**, **MongoDB**, **JWT**, **Stripe Payments**, and **Tailwind CSS**.
-Forked & enhanced from Murali’s original project—with ❤️ by **Author: Thinakaran Manokaran** ([@thinakaran.dev](https://thinakaran.dev))
+<h2 align="center">
+  🚀 Full-stack E-commerce Application
+</h2>
+
+<p align="center">
+  <img src="client/public/preview.png" alt="SwiftCart Preview" width="800" style="border-radius: 20px"/>
+</p>  
+
+<h3 align="center">
+  🛍 Built with <b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>JWT</b>, <b>Stripe Payments</b>, and <b>Tailwind CSS</b>
+</h3>
+
+<p align="center">
+  SwiftCart is a modern e-commerce platform that allows users to browse products, manage categories, upload images, 
+  and securely purchase items with Stripe integration. It comes with a powerful <b>Admin Dashboard</b> for 
+  managing products, orders, and customers — all in real-time.
+</p>
+
+<p align="center">
+  🔒 Secure Authentication • 📦 Product Management • 💳 Online Payments • 📊 Dashboard Analytics
+</p>
+
+---
+
+<h3 align="center">
+  Forked & Enhanced from Murali’s original project — with ❤️ by 
+  <a href="https://thinakaran.dev">Thinakaran Manokaran</a>
+</h3>
 
 ---
 
