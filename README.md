@@ -76,13 +76,6 @@
 
 ---
 
-## 🎥 Demo
-
-*(Optional: Add GIFs or video link)*
-👉 Example: [YouTube Walkthrough](https://www.youtube.com/watch?v=lXk14qt2D28)
-
----
-
 ## ⚡ Getting Started
 
 ### 📦 Prerequisites
