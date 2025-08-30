@@ -7,5 +7,5 @@ try {
   });
   console.log("Database Connected Successfully");
 } catch (err) {
-  console.log("Database Not Connected");
+  console.log("Database Not Connected!");
 }
